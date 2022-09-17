@@ -1,0 +1,25 @@
+.mainBlok {
+    height: 100vh;
+    background-color: #fce8c3;
+}
+
+.container {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name {
+    width: 270px;
+    background-color: #e3c6c6;
+    color: #460c0c;
+}
+
+.foto {
+    width: 250px;
+    height: 350px;
+    background-color: #e3c6c6;
+}
