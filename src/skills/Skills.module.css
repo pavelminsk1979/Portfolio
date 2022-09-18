@@ -1,0 +1,23 @@
+.skillsBlok{
+    height: 100vh;
+    background-color: #d7d7d9;
+}
+
+.titleAndStills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skills{
+    border: 1px solid #aca5a5;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #eaeaed;
+}
+
+.title{
+    background-color: #e3e3e6;
+    color: #460c0c;
+}

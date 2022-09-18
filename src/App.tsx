@@ -1,6 +1,7 @@
 import React from 'react';
 import {Header} from "./header/Header";
 import {Main} from "./mainBlok/Main";
+import {Skills} from "./skills/Skills";
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
         <div>
             <Header/>
             <Main/>
+            <Skills/>
         </div>
     );
 }
