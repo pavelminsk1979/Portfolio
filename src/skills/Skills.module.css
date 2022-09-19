@@ -1,6 +1,7 @@
 .skillsBlok{
     height: 100vh;
     background-color: #d7d7d9;
+
 }
 
 .titleAndStills{
@@ -15,6 +16,7 @@
     justify-content: space-between;
     width: 100%;
     background-color: #eaeaed;
+    flex-wrap: wrap;
 }
 
 .title{
