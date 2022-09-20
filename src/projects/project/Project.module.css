@@ -1,5 +1,26 @@
 
-.frame{
-    width: 200px;
+.frame {
+    display: flex;
+    flex-direction:column;
+   align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 300px;
     background-color: #dedee0;
+}
+
+.icone {
+    width: 70px;
+    height: 50px;
+    background-color: #f2e181;
+}
+
+.show {
+    width: 170px;
+    height: 100px;
+    background-color: #f2b281;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
 }

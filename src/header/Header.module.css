@@ -1,7 +1,15 @@
 .generalFrame{
     height: 80px;
     background-color: #dbcbcb;
-    display: flex;
+}
+
+.container{
+    margin: 0 auto;
+    border: 1px solid #aca5a5;
+    height: 100%;
+    width: 80%;
+display: flex;
     justify-content: flex-end;
     align-items: center;
 }
+
