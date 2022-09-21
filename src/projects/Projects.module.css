@@ -1,5 +1,5 @@
 .projectsTitleBlok{
-    height: 100vh;
+    min-height: 100vh;
     background-color: rgb(231, 233, 233);
 }
 

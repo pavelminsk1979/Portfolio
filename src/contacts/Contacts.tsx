@@ -12,7 +12,7 @@ export const Contacts = () => {
               <input className={st.input} type="text"/>
               <textarea className={st.textarea} ></textarea>
           </div>
-              <button>ОТПРАВИТЬ</button>
+              <button>молниеностная доставка точно по адресу и без воды, просто нажми сюды</button>
           </div>
       </div>
   )

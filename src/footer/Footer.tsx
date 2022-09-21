@@ -8,7 +8,7 @@ export const Footer = () => {
             <div className={`${stContainer.container} ${st.container}`}>
 <h3>приходите еще какнибудь</h3>
                 <div className={st.centerFrame}></div>
-                <span>создано в перерывах сериала "БРИГАДА"</span>
+                <span>создано в перерывах сериала</span>
             </div>
         </div>
     )

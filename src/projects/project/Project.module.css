@@ -16,9 +16,11 @@
 }
 
 .show {
-    width: 170px;
-    height: 100px;
-    background-color: #f2b281;
+    width: 80%;
+    height: 120px;
+   background-image: url("https://st2.depositphotos.com/1206128/5228/i/600/depositphotos_52287825-stock-photo-little-sketchy-man-with-santa.jpg");
+   background-size:cover ;
+    background-position:center ;
     display: flex;
     justify-content: space-around;
     align-items: center;
