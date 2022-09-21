@@ -1,0 +1,17 @@
+.footerBlok{
+    height: 160px;
+    background-color: #dbcbcb;
+}
+.container{
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.centerFrame{
+    width: 300px;
+    height: 40px;
+    background-color: #f4d884;
+
+}
